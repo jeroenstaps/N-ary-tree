@@ -1,0 +1,6 @@
+C:\Users\Jeroen\Documents\Jaar 4\Scientific Computing\Periode 2\N-ary-Tree\N-ary-Tree\bin\Debug\N-ary-Tree.dll
+C:\Users\Jeroen\Documents\Jaar 4\Scientific Computing\Periode 2\N-ary-Tree\N-ary-Tree\bin\Debug\N-ary-Tree.pdb
+C:\Users\Jeroen\Documents\Jaar 4\Scientific Computing\Periode 2\N-ary-Tree\N-ary-Tree\obj\Debug\N-ary-Tree.csprojAssemblyReference.cache
+C:\Users\Jeroen\Documents\Jaar 4\Scientific Computing\Periode 2\N-ary-Tree\N-ary-Tree\obj\Debug\N-ary-Tree.csproj.CoreCompileInputs.cache
+C:\Users\Jeroen\Documents\Jaar 4\Scientific Computing\Periode 2\N-ary-Tree\N-ary-Tree\obj\Debug\N-ary-Tree.dll
+C:\Users\Jeroen\Documents\Jaar 4\Scientific Computing\Periode 2\N-ary-Tree\N-ary-Tree\obj\Debug\N-ary-Tree.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-ary-Tree", "N-ary-Tree\N-ary-Tree.csproj", "{6D7BEB9B-42CC-4442-AE56-38B03DE262CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree_Use", "Tree_Use\Tree_Use.csproj", "{11A41A17-7A67-40A3-A281-BB059FE4A8FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree_Test", "Tree_Test\Tree_Test.csproj", "{15E6811A-6762-446A-BFF7-02E0620C900A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D7BEB9B-42CC-4442-AE56-38B03DE262CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7BEB9B-42CC-4442-AE56-38B03DE262CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7BEB9B-42CC-4442-AE56-38B03DE262CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7BEB9B-42CC-4442-AE56-38B03DE262CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A41A17-7A67-40A3-A281-BB059FE4A8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A41A17-7A67-40A3-A281-BB059FE4A8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A41A17-7A67-40A3-A281-BB059FE4A8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A41A17-7A67-40A3-A281-BB059FE4A8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E6811A-6762-446A-BFF7-02E0620C900A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E6811A-6762-446A-BFF7-02E0620C900A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E6811A-6762-446A-BFF7-02E0620C900A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E6811A-6762-446A-BFF7-02E0620C900A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF204E1C-08FF-43CD-8F9D-E61FAE8CA648}
+	EndGlobalSection
+EndGlobal
